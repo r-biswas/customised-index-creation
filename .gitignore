@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary scripts
+test_*.py
+fix_*.py
+update_*.py
+add_disclaimers.py
+stock_theme_fetcher.py
